@@ -4,6 +4,7 @@ var colorData = {
   "a": Color.fromRGBO(226, 95, 81, 1),
   "b": Color.fromRGBO(242, 96, 145, 1),
   "c": Color.fromRGBO(187, 101, 202, 1),
+  "č": Color.fromRGBO(187, 101, 204, 1),
   "d": Color.fromRGBO(149, 114, 207, 1),
   "e": Color.fromRGBO(120, 132, 205, 1),
   "f": Color.fromRGBO(91, 149, 249, 1),
@@ -20,6 +21,7 @@ var colorData = {
   "q": Color.fromRGBO(194, 194, 194, 1),
   "r": Color.fromRGBO(143, 164, 175, 1),
   "s": Color.fromRGBO(162, 136, 126, 1),
+  "š": Color.fromRGBO(162, 136, 128, 1),
   "t": Color.fromRGBO(163, 163, 163, 1),
   "u": Color.fromRGBO(175, 181, 226, 1),
   "v": Color.fromRGBO(179, 155, 221, 1),
@@ -27,4 +29,5 @@ var colorData = {
   "x": Color.fromRGBO(124, 222, 235, 1),
   "y": Color.fromRGBO(188, 170, 164, 1),
   "z": Color.fromRGBO(173, 214, 125, 1),
+  "ž": Color.fromRGBO(173, 214, 127, 1),
 };
